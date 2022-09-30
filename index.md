@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Nathan Martin-Obst
 ---
 
+Computer Science Student at UGA
